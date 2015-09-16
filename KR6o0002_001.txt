@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:08.745159
+#+DATE: 2015-08-30 20:59:09.949347
 #+TITLE: 因明正理門論
 #+PROPERTY: CBETA_ID T32n1629
 #+PROPERTY: ID KR6o0002
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1629
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0002_T_000-0006a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0002_T_001-0006a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1629[No.1628]¶
-
- 《因明正理門論》一卷¶
+No. 1629 [No. 1628]¶
+《因明正理門論》一卷卷¶
 ¶
 大域龍菩薩造¶
 大唐三藏法師義淨奉　制譯¶
@@ -548,7 +547,7 @@ No.1629[No.1628]¶
 理而誹撥時。可名能破。頌曰。¶
 
 #+BEGIN_VERSE
-「　說前無因故
+「　說前無因故應無有所立名無說相似
 　應無有所立¶
 　名無說相似
 　生無生亦然¶
