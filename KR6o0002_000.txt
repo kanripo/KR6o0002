@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 因明正理門論
+#+DATE: 2015-08-30 20:59:08.961421
+#+PROPERTY: JUAN 0
